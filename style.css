@@ -1,0 +1,59 @@
+div {
+    text-align: center;
+}
+
+.header {
+    background-color: purple; 
+    margin-bottom: 0;
+    height: 400px;
+    width: 100%;
+    color: white;
+}
+
+.images {
+    background-color: gold;
+    margin-top: 0;
+    height: 400px;
+    width: 100%;
+    color: white;
+}
+
+.quote {
+    background-color: purple;
+    margin-top: 0;
+    height: 400px;
+    width: 100%;
+    color: white;
+}
+
+.lastchance {
+    background-color: gold;
+    margin-top: 0;
+    height: 400px;
+    width: 100%;
+    color: white;
+}
+
+.copyright {
+    background-color: purple;
+    margin-top: 0;
+    height: 100px;
+    width: 100%;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav {
+    text-align: right;
+    margin:10px;
+}
+
+.top {
+    text-align: left;
+}
